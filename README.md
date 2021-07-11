@@ -24,6 +24,22 @@ npm install
 
 ```
 
+- and install webpack config with this command
+
+```
+
+npx webpack
+
+```
+
+- and run the command below so that all changes can be read
+
+```
+
+npx webpack --watch
+
+```
+
 - For run this project basically is same with codeigniter 4 use spark serve
 
 ```
