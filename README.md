@@ -1,5 +1,7 @@
 # Reactniter
 
+<img width="960" alt="ci-react" src="https://user-images.githubusercontent.com/69211780/125196406-0ad19580-e284-11eb-9766-6d15c2e80983.png">
+
 ## What is Reactniter?
 
 Reactniter is a starterkit template to make it easier for developers to create apps with codeigniter 4 and also reactjs in one package.
