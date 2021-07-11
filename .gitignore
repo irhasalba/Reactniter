@@ -1,11 +1,11 @@
 #-------------------------
 # Operating Specific Junk Files
 #-------------------------
-
-# OS X
+#OS X
 .DS_Store
 .AppleDouble
 .LSOverride
+
 
 # OS X Thumbnails
 ._*
@@ -125,3 +125,5 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+#node_modules
+/node_modules
