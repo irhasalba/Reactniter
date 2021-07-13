@@ -45,3 +45,8 @@ npx webpack --watch
 ```
 php spark serve
 ```
+
+### Note
+
+- all resources React is inside src folders so you can make everything of reactjs inside it
+- for the basic documentation is coming soon

@@ -13,6 +13,9 @@ class App extends Component {
             Codeigniter 4 |{" "}
             <a href="https://codeigniter.com/user_guide/index.html">Here</a>
           </p>
+          <p className="text">
+            this component you can change inside folder /src
+          </p>
           <h6 className="text">
             created by : Muhammad Irhas Albais | Github :{" "}
             <a href="https://github.com/irhasalba">Here</a>{" "}
